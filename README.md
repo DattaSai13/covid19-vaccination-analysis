@@ -3,10 +3,16 @@
 
 
 ## 📌 Overview  
-This project analyzes:  
-✅ **Top 10 countries by vaccination rates**  
-✅ **Most used vaccine brands globally**  
-✅ **Time-series trends for specific countries**  
+
+## 🚀 Live Demo
+**[Explore the live dashboard here](https://covid19-vaccination-analysis-f2va4p4v3gya53oxtkduju.streamlit.app/)**  
+
+## 📌 Features
+- **Top 10 countries** by vaccination rates  
+- **Vaccine brand comparison** (Pfizer, Moderna, etc.)  
+- **Time-series trends** for any country  
+- **Fully interactive** filters and charts  
+ 
 
 ## 🛠️ Tools Used  
 - **Python** (Pandas, Matplotlib)  
